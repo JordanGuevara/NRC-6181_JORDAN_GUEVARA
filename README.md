@@ -6,4 +6,4 @@ La buena práctica para la programación:
 separadas llamados bloques, dando a entender que la agrupación de códigos es muy beneficioso.
 - La organización de los códigos en carpetas o archivos.
 - Mantenimiento de un buen control sobre todas las versiones del código.
-
+Jordan Guevara
